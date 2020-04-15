@@ -1,0 +1,1 @@
+ruby fb.rb credential.json "dtu times" 50
